@@ -1,0 +1,1 @@
+# practicas--computo_paralelo--escom
