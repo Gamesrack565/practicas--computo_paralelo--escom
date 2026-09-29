@@ -1,0 +1,9 @@
+El producto de la columna 1 es: 2
+El producto de la columna 2 es: 24
+El producto de la columna 3 es: 90
+El producto de la columna 4 es: 224
+El producto de la columna 5 es: 450
+El producto de la columna 7 es: 1274
+El producto de la columna 8 es: 1920
+El producto de la columna 6 es: 792
+El producto de la columna 9 es: 2754
